@@ -1,4 +1,4 @@
-# node_gateway_starter_kit
+# a simple gateway nodejs starter kit
 
 how to start server ?
 
