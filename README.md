@@ -1,4 +1,6 @@
 # node_gateway_starter_kit
 
-```npm install```
-```npm run dev```
+how to start server ?
+
+- ```npm install```
+- ```npm run dev```
